@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+*.db-shm
+*.db-wal
+.venv/
+.env
+.scratch/
+take_home_assignment.md
+SUPPORT_CONCIERGE_SPEC.md
+eval_report.md
+*.egg-info/
